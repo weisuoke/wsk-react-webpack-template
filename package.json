@@ -1,0 +1,20 @@
+{
+  "name": "wsk-react-webpack-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisuoke/wsk-react-webpack-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weisuoke/wsk-react-webpack-template/issues"
+  },
+  "homepage": "https://github.com/weisuoke/wsk-react-webpack-template#readme"
+}
